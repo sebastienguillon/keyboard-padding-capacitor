@@ -10,3 +10,5 @@ When opening the keyboard (simply as a result of focusing an ion-input, not prog
 ![iOS screengrab](https://github.com/sebastienguillon/keyboard-padding-capacitor/blob/master/iOS-11.0.1-capacitor.png)
 
 **Note:** Blue is ion-content, green is body.
+
+[The exact same Ionic code is used with a Cordova intagration.](https://github.com/sebastienguillon/keyboard-padding-cordova)
