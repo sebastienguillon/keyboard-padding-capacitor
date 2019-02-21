@@ -1,0 +1,6 @@
+{
+  "appId": "io.ionic.starter",
+  "appName": "keyboard-padding-capacitor",
+  "bundledWebRuntime": false,
+  "webDir": "www"
+}

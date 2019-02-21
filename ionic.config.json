@@ -1,0 +1,7 @@
+{
+  "name": "keyboard-padding-capacitor",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}

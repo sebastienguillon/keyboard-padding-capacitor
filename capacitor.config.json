@@ -1,0 +1,6 @@
+{
+  "appId": "com.sebastienguillon.keyboardcapacitor",
+  "appName": "keyboard-padding-capacitor",
+  "bundledWebRuntime": false,
+  "webDir": "www"
+}
